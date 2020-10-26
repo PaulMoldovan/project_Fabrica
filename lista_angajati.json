@@ -1,0 +1,37 @@
+{
+    "1": [
+        "Paul",
+        "Moldovan",
+        1234,
+        "manager",
+        ""
+    ],
+    "2": [
+        "Petru",
+        "Morariu",
+        1111,
+        "administrator",
+        "electrician"
+    ],
+    "3": [
+        "Darius",
+        "Radu",
+        2222,
+        "operator",
+        "instalator"
+    ],
+    "4": [
+        "Petru",
+        "Stanciuc",
+        3333,
+        "operator",
+        "instalator"
+    ],
+    "6": [
+        "Gabi",
+        "Salajeanu",
+        4444,
+        "operator",
+        "frigotehnist"
+    ]
+}
